@@ -9,5 +9,3 @@ How to run?
 2) Check the Voiceflow code is published to the latest Version
 3) Go to infalyzetech.com and click on the chat bubble in the bottom right
 
-
-User experience should look like:
